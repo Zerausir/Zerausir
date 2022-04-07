@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zerausir
+- 👀 I’m interested in general purpose development, Data Science and AI.
+- 🌱 I’m currently learning Statistics and Data Science using Python.
+- 💞️ I’m looking to collaborate on projects that require to developing applications with Microservices Architecture using Python, Flask and Docker.
+- 📫 How to reach me: ivan.suarez.fabara@gmail.com
